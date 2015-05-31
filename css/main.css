@@ -1,0 +1,32 @@
+body {
+    color:#fff;
+    background-color:#255c69;
+    font-family: 'PT Sans', sans-serif;
+}
+
+h1{
+    font-size:48px;
+}
+
+.header{
+    background-color: #1688a3;
+    border-bottom: 5px solid #0e7891;
+    padding: 20px 5% 20px 5% ;
+}
+
+.content{
+    padding: 20px 15% 20px 15%;
+}
+
+.buttonwrap{
+    padding:0px 10% 0px 10%;
+}
+
+.land-img img {
+    width:100%;
+}
+
+.img{
+    border: 4px solid #0c4350;
+    border-radius: 3px;
+}
