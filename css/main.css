@@ -30,3 +30,10 @@ h1{
     border: 4px solid #0c4350;
     border-radius: 3px;
 }
+
+.printer{
+    color:red;
+}
+p{
+    font-size:24px;
+}
